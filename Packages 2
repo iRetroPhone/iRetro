@@ -27,7 +27,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 
-Package: com.iRetroPhone.CCCalculator
+Package: com.iRetroPhone.github.io/iRetro/CCCalculator
 Version: 1.1.2
 Section: Tweaks
 Maintainer: gilescg <reposithree@gmail.com>
@@ -38,5 +38,5 @@ Size: 31450
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: 3D Touch Calculator on CC and enjoy something magical.
 Author: gilescg <reposithree@gmail.com>
-Depiction: https://iretrophone.github.io/iRetro/depictions/CCCalculator
+Depiction: https://iRetroPhone.github.io/iRetro/depictions/CCCalculator
 
