@@ -34,9 +34,9 @@ Maintainer: gilescg <reposithree@gmail.com>
 Depends: firmware (<9.0)
 Architecture: iphoneos-arm
 Filename: ./debs/cccalculator.deb
-Size: 0.05
+Size: 31450
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: 3D Touch Calculator on CC and enjoy something magical.
 Author: gilescg <reposithree@gmail.com>
-Depiction: https://iretrophone.github.io/iRetro/
+Depiction: https://iretrophone.github.io/iRetro/depictions/CCCalculator
 
